@@ -1,6 +1,6 @@
 # Sponsors
 
-This repo demonstrates our sponsor.
+This repo demonstrates our sponsors.
 
 | Date | Name | Way | Size | Transform* |
 | ---- | ---- | --- | ---- | --------- |
