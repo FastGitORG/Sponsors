@@ -1,7 +1,11 @@
+<div style="text-align: center">
+
 # Sponsors
 
 This repo demonstrates our sponsor.
 
-| Name | Way | Size |
-| ---- | --- | ---- |
-| Unknown | Wechat Shangzan Code | 0.01 CNY |
+| Date | Name | Way | Size |
+| ---- | ---- | --- | ---- |
+| 09/04/20 20:24:52| Unknown | Wechat Shangzan Code | 0.01 CNY |
+
+</div>
