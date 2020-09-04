@@ -12,5 +12,6 @@ This repo demonstrates our sponsors.
 | 04/09/20 21:22:28 | 奥里给 | WeChat ZanShang Code | 5.00 CNY | 264.48492 ZWD |
 | 04/09/20 21:24:04 | Unknown | WeChat ZanShang Code | 0.01 CNY | 0.52893 ZWD |
 | 04/09/20 21:24:50 | Unknown | WeChat ZanShang Code | 0.01 CNY | 0.52893 ZWD |
+| 04/09/20 21:30:55 | [@zsqw123](https://github.com/zsqw123) | WeChat ZanShang Code | 5.00 CNY | 264.48492 ZWD |
 
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
