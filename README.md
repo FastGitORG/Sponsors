@@ -4,6 +4,8 @@ This repo demonstrates our sponsors.
 
 | Date | Name | Way | Size | Transform* |
 | ---- | ---- | --- | ---- | --------- |
+| 15/06/20 23:46:32 | [DogYun](https://www.dogyun.com/) | [DogYun.com](https://www.dogyun.com/) | 10,000 GB General Traffic Package | N/A |
+| 15/06/20 23:46:32 | [DogYun](https://www.dogyun.com/) | [DogYun.com](https://www.dogyun.com/) | 60% Promotion Code | N/A |
 | 04/09/20 20:24:52| Unknown | WeChat ZanShang Code | 0.01 CNY | 0.52893 ZWD |
 | 04/09/20 21:02:40 | [![zsqw123](https://i.loli.net/2020/09/05/QewgymukHXVADUi.png)](https://github.com/zsqw123) |  WeChat ZanShang Code | 0.03 CNY | 1.58716 ZWD |
 | 04/09/20 21:20:54 | 嘻嘻嘻 | WeChat ZanShang Code | 0.01 CNY | 0.52893 ZWD |
