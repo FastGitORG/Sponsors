@@ -5,14 +5,14 @@ This repo demonstrates our sponsors.
 | Date | Name | Way | Size | Transform* |
 | ---- | ---- | --- | ---- | --------- |
 | 04/09/20 20:24:52| Unknown | WeChat ZanShang Code | 0.01 CNY | 0.52893 ZWD |
-| 04/09/20 21:02:40 | ![zsqw123](https://i.loli.net/2020/09/05/QewgymukHXVADUi.png) |  WeChat ZanShang Code | 0.03 CNY | 1.58716 ZWD |
+| 04/09/20 21:02:40 | [![zsqw123](https://i.loli.net/2020/09/05/QewgymukHXVADUi.png)](https://github.com/zsqw123) |  WeChat ZanShang Code | 0.03 CNY | 1.58716 ZWD |
 | 04/09/20 21:20:54 | 嘻嘻嘻 | WeChat ZanShang Code | 0.01 CNY | 0.52893 ZWD |
 | 04/09/20 21:21:13 | [饭团(@fantuanzi)](https://github.com/fantuanzi) | WeChat ZanShang Code | 0.01 CNY | 0.52893 ZWD |
 | 04/09/20 21:21:20 | Unknown | WeChat ZanShang Code | 0.06 CNY | 3.17382 ZWD |
 | 04/09/20 21:22:28 | 💩奥里给💩 | WeChat ZanShang Code | 5.00 CNY | 264.48492 ZWD |
 | 04/09/20 21:24:04 | Unknown | WeChat ZanShang Code | 0.01 CNY | 0.52893 ZWD |
 | 04/09/20 21:24:50 | Unknown | WeChat ZanShang Code | 0.01 CNY | 0.52893 ZWD |
-| 04/09/20 21:30:55 | ![zsqw123](https://i.loli.net/2020/09/05/QewgymukHXVADUi.png) | WeChat ZanShang Code | 5.00 CNY | 264.48492 ZWD |
+| 04/09/20 21:30:55 | [![zsqw123](https://i.loli.net/2020/09/05/QewgymukHXVADUi.png)](https://github.com/zsqw123) | WeChat ZanShang Code | 5.00 CNY | 264.48492 ZWD |
 | 04/09/20 23:58:52 | [Kid(@kidonng)](https://github.com/kidonng) | WeChat ZanShang Code | 10.00 CNY | 528.90026 ZWD |
 | 05/09/20 06:53:45 | glibc | WeChat ZanShang Code | 20.00 CNY | 1057.80051 ZWD |
 
