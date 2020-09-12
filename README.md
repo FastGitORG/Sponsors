@@ -7,7 +7,7 @@ This repo demonstrates our sponsors.
 | 15/06/20 23:46:32 | [DogYun](https://www.dogyun.com/) | [DogYun.com](https://www.dogyun.com/) | 10,000 GB General Traffic Package | N/A |
 | 15/06/20 23:46:32 | [DogYun](https://www.dogyun.com/) | [DogYun.com](https://www.dogyun.com/) | 60% Promotion Code | N/A |
 | 04/09/20 20:24:52| Unknown | WeChat ZanShang Code | 0.01 CNY | 0.52893 ZWD |
-| 04/09/20 21:02:40 | [![zsqw123](https://i.loli.net/2020/09/05/QewgymukHXVADUi.png)](https://github.com/zsqw123) |  WeChat ZanShang Code | 0.03 CNY | 1.58716 ZWD |
+| 04/09/20 21:02:40 | [![zsqw123](https://i.loli.net/2020/09/05/QewgymukHXVADUi.png)](https://github.com/zsqw123) | WeChat ZanShang Code | 0.03 CNY | 1.58716 ZWD |
 | 04/09/20 21:20:54 | 嘻嘻嘻 | WeChat ZanShang Code | 0.01 CNY | 0.52893 ZWD |
 | 04/09/20 21:21:13 | [饭团(@fantuanzi)](https://github.com/fantuanzi) | WeChat ZanShang Code | 0.01 CNY | 0.52893 ZWD |
 | 04/09/20 21:21:20 | Unknown | WeChat ZanShang Code | 0.06 CNY | 3.17382 ZWD |
@@ -22,6 +22,10 @@ This repo demonstrates our sponsors.
 | 10/09/20 13:39:37 | [Rwing(@Rwing)](https://github.com/Rwing) | WeChat ZanShang Code | 10.00 CNY | 529.18641 ZWD |
 | 10/09/20 13:39:37 | [EpLiar(@EpLiar)](https://github.com/EpLiar) | WeChat ZanShang Code | 5.00 CNY | 264.5932 ZWD |
 | 10/09/20 15:08:16 | [Xiaokai Xia(@dddd1007)](https://github.com/dddd1007) | WeChat ZanShang Code | 50.00 CNY | 2645.93203 ZWD |
+| 12/09/20 08:45:16 | [LionTao(@LionTao)](https://github.com/LionTao) | WeChat ZanShang Code | 50.00 CNY | 52.95271 ZWD |
+| 12/09/20 13:12:59 | Fake | WeChat ZanShang Code | 1.14 CNY | 60.36609 ZWD |
+| 12/09/20 13:13:08 | [![zsqw123](https://i.loli.net/2020/09/05/QewgymukHXVADUi.png)](https://github.com/zsqw123) | WeChat ZanShang Code | 0.01 CNY | 0.52953 ZWD |
+| 12/09/20 13:30:06 | 小和酱 | WeChat ZanShang Code | 5.00 CNY | 264.76355 ZWD |
 
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
 
