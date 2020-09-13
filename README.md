@@ -26,6 +26,8 @@ This repo demonstrates our sponsors.
 | 12/09/20 13:12:59 | Fake | WeChat ZanShang Code | 1.14 CNY | 60.36609 ZWD |
 | 12/09/20 13:13:08 | [![zsqw123](https://i.loli.net/2020/09/05/QewgymukHXVADUi.png)](https://github.com/zsqw123) | WeChat ZanShang Code | 0.01 CNY | 0.52953 ZWD |
 | 12/09/20 13:30:06 | [小和酱(@dmcimi)](https://github.com/dmcimi) | WeChat ZanShang Code | 5.00 CNY | 264.76355 ZWD |
+| 13/09/20 04:40:38 | [Frozen(@xrdavies)](https://github.com/xrdavies) | WeChat ZanShang Code | 10.00 CNY | 529.5271 ZWD |
+| 14/09/20 01:31:12 | Matrix | WeChat ZanShang Code | 5.00 CNY | 264.76355 ZWD |
 
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
 
