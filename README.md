@@ -32,6 +32,7 @@ This repo demonstrates our sponsors.
 | 18/09/20 22:08:09 | [Azure Fantasy(@raptazure)](https://github.com/raptazure) | WeChat ZanShang Code | 10.00 CNY | 529.5271 ZWD |
 | 03/10/20 18:27:20 | [EpLiar(@EpLiar)](https://github.com/EpLiar) | WeChat ZanShang Code | 50.00 CNY | 2664.75223 ZWD |
 | 03/10/20 19:56:56 | [186富佬(@186526)](https://github.com/186526) | WeChat ZanShang Code | 3.00 CNY | 159.88537 ZWD |
+| 13/10/20 10:51:54 | [Xiaokai Xia(@dddd1007)](https://github.com/dddd1007) | WeChat ZanShang Code | 20.00 CNY | 1072.83669 ZWD |
 
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
 
