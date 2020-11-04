@@ -36,5 +36,5 @@ This repo demonstrates our sponsors.
 | 14/10/20 11:56:09 UTC+8 | Xiao** | WeChat ZanShang Code | 20.00 CNY | 1076.21851 ZWD |
 | 15/10/20 23:25:28 UTC+8 | Naive: 你们弄的这个啊，亦可赛艇！ | WeChat ZanShang Code | 20.00 CNY | 1076.21851 ZWD |
 | 25/10/20 16:16:41 UTC   | Unknown | WeChat ZanShang Code | 50.00 CNY | 2695.79727 ZWD |
-
+| 03/11/20 14:08:38 UTC   | Unknown | WeChat ZanShang Code | 1.00 CNY | 54.39243 ZWD |
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
