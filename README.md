@@ -40,5 +40,6 @@ This repo demonstrates our sponsors.
 | 05/11/20 10:31:17 UTC   | [EpLiar(@EpLiar)](https://github.com/EpLiar) | WeChat ZanShang Code | 20.00 CNY | 1094.77569 ZWD |
 | 05/11/20 10:33:59 UTC   | Unknown | WeChat ZanShang Code | 20.00 CNY | 1094.77569 ZWD |
 | 06/11/20 22:42:02 UTC   | [Zikin](https://github.com/Zikinn) | WeChat ZanShang Code | 5.00 CNY | 273.69392 ZWD |
+| 14/11/20 00:08:57 UTC   | Unknown | WeChat ZanShang Code | 10.00 CNY |5 47.80213 ZWD |
 
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
