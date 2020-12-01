@@ -39,7 +39,12 @@ This repo demonstrates our sponsors.
 | 03/11/20 14:08:38 UTC   | Unknown | WeChat ZanShang Code | 1.00 CNY | 54.39243 ZWD |
 | 05/11/20 10:31:17 UTC   | [EpLiar(@EpLiar)](https://github.com/EpLiar) | WeChat ZanShang Code | 20.00 CNY | 1094.77569 ZWD |
 | 05/11/20 10:33:59 UTC   | Unknown | WeChat ZanShang Code | 20.00 CNY | 1094.77569 ZWD |
-| 06/11/20 22:42:02 UTC   | [Zikin](https://github.com/Zikinn) | WeChat ZanShang Code | 5.00 CNY | 273.69392 ZWD |
-| 14/11/20 00:08:57 UTC   | Unknown | WeChat ZanShang Code | 10.00 CNY |5 47.80213 ZWD |
+| 06/11/20 22:42:02 UTC   | [Zikin(@Zikinn)](https://github.com/Zikinn) | WeChat ZanShang Code | 5.00 CNY | 273.69392 ZWD |
+| 14/11/20 00:08:57 UTC   | Unknown | WeChat ZanShang Code | 10.00 CNY | 547.80213 ZWD |
+| 26/11/20 11:41:38 UTC   | Unknown | WeChat ZanShang Code | 1.00 CNY | 55.06444 ZWD |
+| 27/11/20 21:20:20 UTC   | Unknown | WeChat ZanShang Code | 1.00 CNY | 55.06444 ZWD |
+| 01/12/20 20:27:11 UTC   | [Scvoet(@Scvoet)](https://github.com/scvoet) | WeChat ZanShang Code | 100.00 CNY | 5506.44371 ZWD |
+| -                       | [365Node](https://qnid.cc) | - | - | - |
 
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
+<!--https://cny.fxexchangerate.com/zwd/{num}-currency-rates.html-->
