@@ -44,7 +44,10 @@ This repo demonstrates our sponsors.
 | 26/11/20 11:41:38 UTC   | Unknown | WeChat ZanShang Code | 1.00 CNY | 55.06444 ZWD |
 | 27/11/20 21:20:20 UTC   | Unknown | WeChat ZanShang Code | 1.00 CNY | 55.06444 ZWD |
 | 01/12/20 20:27:11 UTC   | [Scvoet(@Scvoet)](https://github.com/scvoet) | WeChat ZanShang Code | 100.00 CNY | 5506.44371 ZWD |
-| -                       | [365Node](https://qnid.cc) | - | - | - |
+| -                       | [365Node](https://qnid.cc)     | IM Platform | DS for DL | - |
+| 15/12/20 10:48:16 UTC   | Unknown | WeChat ZanShang Code | 10.00 CNY | 553.21165 ZWD |
+| 16/12/20 10:57:13 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 276.60583 ZWD |
+| 25/12/20 23:25:22 UTC   | Unknown | WeChat ZanShang Code | 50.00 CNY | 2766.05827 ZWD |
 
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
 <!--https://cny.fxexchangerate.com/zwd/{num}-currency-rates.html-->
