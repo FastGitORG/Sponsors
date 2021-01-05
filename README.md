@@ -48,6 +48,10 @@ This repo demonstrates our sponsors.
 | 15/12/20 10:48:16 UTC   | Unknown | WeChat ZanShang Code | 10.00 CNY | 553.21165 ZWD |
 | 16/12/20 10:57:13 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 276.60583 ZWD |
 | 25/12/20 23:25:22 UTC   | Unknown | WeChat ZanShang Code | 50.00 CNY | 2766.05827 ZWD |
+| 31/12/20 09:36:50 UTC   | Max     | WeChat ZanShang Code | 1.00 CNY | 56.0078 ZWD |
+| 03/01/21 21:43:16 UTC   | [竹林里有冰(@zhullyb)](https://github.com/zhullyb) | WeChat ZanShang Code | 10.00 CNY | 560.078 ZWD |
+| 03/01/21 22:09:58 UTC   | 。     | WeChat ZanShang Code | 5.20 CNY | 291.24056 ZWD |
+| 04/01/21 19:44:01 UTC   | 狂影     | WeChat ZanShang Code | 10.00 CNY | 560.078 ZWD |
 
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
 <!--https://cny.fxexchangerate.com/zwd/{num}-currency-rates.html-->
