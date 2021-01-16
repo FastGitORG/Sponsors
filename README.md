@@ -52,6 +52,8 @@ This repo demonstrates our sponsors.
 | 03/01/21 21:43:16 UTC   | [竹林里有冰(@zhullyb)](https://github.com/zhullyb) | WeChat ZanShang Code | 10.00 CNY | 560.078 ZWD |
 | 03/01/21 22:09:58 UTC   | 。     | WeChat ZanShang Code | 5.20 CNY | 291.24056 ZWD |
 | 04/01/21 19:44:01 UTC   | 狂影     | WeChat ZanShang Code | 10.00 CNY | 560.078 ZWD |
+| 10/01/21 16:07:49 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 279.20936 ZWD |
+| 15/01/21 10:59:04 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 279.20936 ZWD |
 
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
 <!--https://cny.fxexchangerate.com/zwd/{num}-currency-rates.html-->
