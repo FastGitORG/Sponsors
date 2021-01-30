@@ -54,6 +54,18 @@ This repo demonstrates our sponsors.
 | 04/01/21 19:44:01 UTC   | 狂影     | WeChat ZanShang Code | 10.00 CNY | 560.078 ZWD |
 | 10/01/21 16:07:49 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 279.20936 ZWD |
 | 15/01/21 10:59:04 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 279.20936 ZWD |
+| 17/01/21 21:50:16 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 281.51594 ZWD |
+| 18/01/21 09:23:08 UTC   | 忘忧草   | WeChat ZanShang Code | 5.00 CNY | 281.51594 ZWD |
+| 20/01/21 14:57:11 UTC   | Unknown | WeChat ZanShang Code | 1.00 CNY | 56.30319 ZWD |
+| 20/01/21 16:47:08 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 281.51594 ZWD |
+| 21/01/21 13:33:52 UTC   | F-DL30  | WeChat ZanShang Code | 1.00 CNY | 56.30319 ZWD |
+| 21/01/21 22:51:07 UTC   | Pluto   | WeChat ZanShang Code | 5.00 CNY | 281.51594 ZWD |
+| 22/01/21 05:33:24 UTC   | Unknown | WeChat ZanShang Code | 1.00 CNY | 56.30319 ZWD |
+| 23/01/21 19:07:14 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 281.51594 ZWD |
+| 25/01/21 16:39:24 UTC   | Unknown | WeChat ZanShang Code | 10.00 CNY | 563.03188 ZWD |
+| 28/01/21 17:26:50 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 281.51594 ZWD |
+| 29/01/21 09:24:05 UTC   | Unknown | WeChat ZanShang Code | 1.00 CNY | 56.30319 ZWD |
+| 29/01/21 10:49:47 UTC   | oliver  | WeChat ZanShang Code | 5.00 CNY | 281.51594 ZWD |
 
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
 <!--https://cny.fxexchangerate.com/zwd/{num}-currency-rates.html-->
