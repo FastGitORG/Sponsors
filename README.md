@@ -66,6 +66,20 @@ This repo demonstrates our sponsors.
 | 28/01/21 17:26:50 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 281.51594 ZWD |
 | 29/01/21 09:24:05 UTC   | Unknown | WeChat ZanShang Code | 1.00 CNY | 56.30319 ZWD |
 | 29/01/21 10:49:47 UTC   | oliver  | WeChat ZanShang Code | 5.00 CNY | 281.51594 ZWD |
+| 31/01/21 14:17:04 UTC   | 沐泽     | WeChat ZanShang Code | 50.00 CNY | 2798.57094 ZWD |
+| 01/02/21 04:36:02 UTC   | Unknown | WeChat ZanShang Code | 100.00 CNY | 5597.14188 ZWD |
+| 01/02/21 15:56:03 UTC   | Unknown | WeChat ZanShang Code | 20.00 CNY | 1119.42838 ZWD |
+| 04/02/21 09:07:41 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 279.85709 ZWD |
+| 11/02/21 09:53:47 UTC   | Unknown | WeChat ZanShang Code | 100.00 CNY | 5597.14188 ZWD |
+| 11/02/21 21:43:16 UTC   | [竹林里有冰(@zhullyb)](https://github.com/zhullyb) | WeChat ZanShang Code | 5.00 CNY | 279.85709 ZWD |
+| 18/02/21 05:23:23 UTC   | MOBY-DICK | WeChat ZanShang Code | 5.00 CNY | 279.85709 ZWD |
+| 18/02/21 15:48:07 UTC   | 口十 叶 | WeChat ZanShang Code | 5.00 CNY | 279.85709 ZWD |
+| 23/02/21 14:54:06 UTC   | 蓄山羊胡的猫 | WeChat ZanShang Code | 10.00 CNY | 559.71419 ZWD |
+| 23/02/21 14:54:29 UTC   | Unknown | WeChat ZanShang Code | 10.00 CNY | 559.71419 ZWD |
+| 23/02/21 22:55:59 UTC   | Bluefissure | WeChat ZanShang Code | 200.00 CNY | 11194.28377 ZWD |
+| 24/02/21 11:29:45 UTC   | channing | WeChat ZanShang Code | 1.00 CNY | 55.97142 ZWD |
+| 26/02/21 03:48:19 UTC   | Kainan | WeChat ZanShang Code | 20.00 CNY | 1119.42838 ZWD |
+| 27/02/21 03:44:42 UTC   | 狗牙 | WeChat ZanShang Code | 5.00 CNY | 279.85709 ZWD |
 
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
 <!--https://cny.fxexchangerate.com/zwd/{num}-currency-rates.html-->
