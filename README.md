@@ -83,7 +83,7 @@ This repo demonstrates our sponsors.
 | 03/03/21 12:18:00 UTC   | [Hihanley(@hihanley)](https://github.com/Hihanley) | WeChat ZanShang Code | 0.61 CNY | 33.89716 ZWD |
 | 04/03/21 22:41:45 UTC   | Unknown | WeChat ZanShang Code | 10.00 CNY | 555.69119 ZWD |
 | 06/03/21 14:51:43 UTC   | Unknown | WeChat ZanShang Code | 5.00 CNY | 277.84559 ZWD |
-| 09/03/21 11:03:47 UTC   | Unknown | WeChat ZanShang Code | 1.00 CNY | 55.56912 ZWD ZWD |
+| 09/03/21 11:03:47 UTC   | Unknown | WeChat ZanShang Code | 1.00 CNY | 55.56912 ZWD |
 
 \* Exchange rate comes from *https://cny.fxexchangerate.com/zwd*
 <!--https://cny.fxexchangerate.com/zwd/{num}-currency-rates.html-->
